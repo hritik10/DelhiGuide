@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Delhi Guide</string>
+    <string name="attractions">attractions</string>
+    <string name="heritage">heritage</string>
+    <string name="market">markets</string>
+    <string name="rest">Restaurants</string>
+
+    <string name="rashtrapatiBhavan">Rashtrapati Bhavan</string>
+    <string name="rashtrapati_desc">Home to the President of the world’s largest democracy, is emblematic of Indian democracy and its secular, plural and inclusive traditions.he famous Mughal Gardens of the Rashtrapati Bhavan cover an area of 15 acres and have 159 celebrated varieties of roses, 60 varieties of bougainvillea and many other verities of flowers</string>
+    <string name="rashtra_add"> Rashtrapati Bhawan, President\'s Estate, New Delhi</string>
+
+    <string name="lotusTemple">Lotus Temple</string>
+    <string name="lotus_desc">This temple is built in the shape of a lotus flower and is the last of seven Major Bahai\'s temples built around the world. Completed in1986 it is set among the lush green landscaped gardens. The structure is made up of pure white marble The architect Furiburz Sabha chose the lotus as the symbol common to Hinduism, Buddhism,  Bhai TempleJainism and Islam. Adherents of any faith are free to visit the temple and pray or meditate.</string>
+    <string name="lotus_add"> Near Kalkaji Temple, East of Nehru Place</string>
+
+    <string name="akshardham">Akshardham Temple</string>
+    <string name="akshar_desc">Swaminarayan Akshardham in New Delhi epitomizes 10,000 years of Indian culture in all its breathtaking grandeur, beauty, wisdom an d bliss. It brilliantly showcases the essence of India’s ancient architecture, traditions and timeless spiritual messages.</string>
+    <string name="akshar_add"> On NH 24, Akshardham Setu</string>
+
+    <string name="banglasahib">Gurudwara Bangla Sahib</string>
+    <string name="bangla_desc">Gurudwara Bangla Sahib; (Punjabi: ਗੁਰਦੁਆਰਾ ਬੰਗਲਾ ਸਾਹਿਬ) is one of the most prominent Sikh gurdwara, or Sikh house of worship, in Delhi, India and known for its association with the eighth Sikh Guru, Guru Har Krishan, as well as the pool inside its complex, known as the "Sarovar."It ranked No 1 among the best tourist and pilgrimage spot in dehli </string>
+    <string name="bangla_add"> "Cannaught Place"</string>
+
+    <string name="humayuntomb">Humayun\'s Tomb</string>
+    <string name="humayun_add">Opp. Dargah ,Nizamuddin Mathura Road</string>
+    <string name="humayun_desc">Located near the crossing of Mathura road and Lodhi road, this magnificent garden tomb is the first substantial example of Mughal architecture in India.</string>
+
+    <string name="indiagate">India Gate</string>
+    <string name="indiagate_add">Near Rajpath</string>
+    <string name="indiagate_desc">At the centre of New Delhi stands the 42 m high India Gate, an \"Arc-de-Triomphe\" like archway in the middle of a crossroad. Almost similar to its French counterpart, it commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during the World War I.</string>
+
+    <string name="qutub">Qutub Minar</string>
+    <string name="qutub_add">Mehrauli</string>
+    <string name="qutub_desc">Qutab Minar is a soaring, 73 m-high tower of victory, built in 1193 by Qutab-ud-din Aibak immediately after the defeat of Delhi\'s last Hindu kingdom. The tower has five distinct storeys, each marked by a projecting balcony and tapers from a 15 m diameter at the base to just 2.5 m at the top."</string>
+
+    <string name="redfort">Red Fort</string>
+    <string name="redfort_add">Red Fort</string>
+    <string name="redfort_desc">The Red Fort is a historical fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1857. It is located in the center of Delhi and houses a number of museums.</string>
+
+    <string name="jmasjid">Jama Majid</string>
+    <string name="jmasjid_add">Off Netaji Subhash Marg, west of Red Fort</string>
+    <string name="jmasjid_desc">This great mosque of Old Delhi is the largest in India, with a courtyard capable of holding 25,000 devotees. It was begun in 1644 and ended up being the final architectural extravagance of Shah Jahan.The highly decorative mosque has three great gates, four towers and two 40 m-high minarets constructed of strips of red sandstone and white marble</string>
+
+    <string name="tjanpath">Tourist Janpath</string>
+    <string name="tjanpath_add">1, Scindia House, Janpath Road, Janpath</string>
+    <string name="tjanpath_desc">North Indian, American, Asian, European</string>
+
+    <string name="tamra">Tamra</string>
+    <string name="tamra_add">Ashoka Road, Connaught Place</string>
+    <string name="tamra_desc">South Indian , Italian , Chinese</string>
+
+    <string name="tadka">Tadka 4986</string>
+    <string name="tadka_add">4986, Nehru Bazaar, Ram Dwara Road</string>
+    <string name="tadka_desc">North Indian, South Indian, Chinese</string>
+
+    <string name="iaccent">Indian Accent</string>
+    <string name="iaccent_add">At The Manor, 77 Friends Colony, New Delhi</string>
+    <string name="iaccent_desc">Vegetarian , Vegan , North Indian</string>
+
+    <string name="dillih">Dilli Haat</string>
+    <string name="dillih_add">INA market</string>
+    <string name="dillih_desc">Delhi Haat is an open air market with various food stalls, handloom stalls , cultural activities and traditions. Normally you will see the same craftsman stalls for 15 days as they are kept on rotational basis for a maximum of 15 days.</string>
+
+    <string name="janpathM">Janpath Market</string>
+    <string name="janpathM_add">Janpath near Connaught Place</string>
+    <string name="janpath_desc">Janpath Market is an old and famous market in Delhi. Until Early 90’s, It was called by the name ‘Queen’s way’. This market is very popular specially amongst the youngsters as Janpath Market offers Accessories and Apparels of latest fashion both for men and women. This is mainly considered to be a market where you can shop even if you have a low budget.8</string>
+
+    <string name="palika">Palika Bazar</string>
+    <string name="palika_add">Connaught Place</string>
+    <string name="palika_desc">Palika Bazaar is an underground Market which is located on the inner circle of Cannaught Place. This market is fully air-conditioned and has a wide range of products in hundreds of shops within the market. The main products include Electronics Goods and Apparels.</string>
+
+    <string name="karol">Karol Bagh</string>
+    <string name="karol_add">Karol Bagh</string>
+    <string name="karol_desc">Karol Bagh is a market which offers something for everyone. You get almost everything in here. You can visit Ajmal Khan Road to buy inexpensive and trendy apparels and also some International Brands. If you want to buy or sell your old books, you can visit Arya Samaj Road. If you wish to buy jewellery, then you should move to Bank Street.</string>
+
+    <string name="cp">Connaught Place</string>
+    <string name="cp_add">Connaught Place</string>
+    <string name="cp_desc">Connaught Place also known as CP is a posh and popular market in Delhi which represents the colonial structures built by Britishers. Anyone who lives is Delhi knows about this market very well. You can get all the Big Brand Shops and Showrooms at Connaught Place.</string>
+
+</resources>
